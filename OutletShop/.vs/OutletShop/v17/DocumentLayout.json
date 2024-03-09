@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sekne\\OneDrive\\Documents\\GitHub\\OutletShop-ASP.NET-CORE-8-MVC\\OutletShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B7301D-C16B-460E-A3D3-3821C8EDFAA3}|OutletShop.Web\\OutletShop.Web.csproj|c:\\users\\sekne\\onedrive\\documents\\github\\outletshop-asp.net-core-8-mvc\\outletshop\\outletshop.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5B7301D-C16B-460E-A3D3-3821C8EDFAA3}|OutletShop.Web\\OutletShop.Web.csproj|solutionrelative:outletshop.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402E0763-638C-46FB-B5D4-298353B59C8C}|OutletShop.Models\\OutletShop.Models.csproj|c:\\users\\sekne\\onedrive\\documents\\github\\outletshop-asp.net-core-8-mvc\\outletshop\\outletshop.models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{402E0763-638C-46FB-B5D4-298353B59C8C}|OutletShop.Models\\OutletShop.Models.csproj|solutionrelative:outletshop.models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B7301D-C16B-460E-A3D3-3821C8EDFAA3}|OutletShop.Web\\OutletShop.Web.csproj|c:\\users\\sekne\\onedrive\\documents\\github\\outletshop-asp.net-core-8-mvc\\outletshop\\outletshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B7301D-C16B-460E-A3D3-3821C8EDFAA3}|OutletShop.Web\\OutletShop.Web.csproj|solutionrelative:outletshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B7301D-C16B-460E-A3D3-3821C8EDFAA3}|OutletShop.Web\\OutletShop.Web.csproj|c:\\users\\sekne\\onedrive\\documents\\github\\outletshop-asp.net-core-8-mvc\\outletshop\\outletshop.web\\outletshop.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B5B7301D-C16B-460E-A3D3-3821C8EDFAA3}|OutletShop.Web\\OutletShop.Web.csproj|solutionrelative:outletshop.web\\outletshop.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402E0763-638C-46FB-B5D4-298353B59C8C}|OutletShop.Models\\OutletShop.Models.csproj|c:\\users\\sekne\\onedrive\\documents\\github\\outletshop-asp.net-core-8-mvc\\outletshop\\outletshop.models\\outletshop.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{402E0763-638C-46FB-B5D4-298353B59C8C}|OutletShop.Models\\OutletShop.Models.csproj|solutionrelative:outletshop.models\\outletshop.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B7301D-C16B-460E-A3D3-3821C8EDFAA3}|OutletShop.Web\\OutletShop.Web.csproj|c:\\users\\sekne\\onedrive\\documents\\github\\outletshop-asp.net-core-8-mvc\\outletshop\\outletshop.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5B7301D-C16B-460E-A3D3-3821C8EDFAA3}|OutletShop.Web\\OutletShop.Web.csproj|solutionrelative:outletshop.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B7301D-C16B-460E-A3D3-3821C8EDFAA3}|OutletShop.Web\\OutletShop.Web.csproj|c:\\users\\sekne\\onedrive\\documents\\github\\outletshop-asp.net-core-8-mvc\\outletshop\\outletshop.web\\views\\shared\\_layout.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B7301D-C16B-460E-A3D3-3821C8EDFAA3}|OutletShop.Web\\OutletShop.Web.csproj|solutionrelative:outletshop.web\\views\\shared\\_layout.cshtml||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B7301D-C16B-460E-A3D3-3821C8EDFAA3}|OutletShop.Web\\OutletShop.Web.csproj|c:\\users\\sekne\\onedrive\\documents\\github\\outletshop-asp.net-core-8-mvc\\outletshop\\outletshop.web\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B7301D-C16B-460E-A3D3-3821C8EDFAA3}|OutletShop.Web\\OutletShop.Web.csproj|solutionrelative:outletshop.web\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B7301D-C16B-460E-A3D3-3821C8EDFAA3}|OutletShop.Web\\OutletShop.Web.csproj|c:\\users\\sekne\\onedrive\\documents\\github\\outletshop-asp.net-core-8-mvc\\outletshop\\outletshop.web\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B7301D-C16B-460E-A3D3-3821C8EDFAA3}|OutletShop.Web\\OutletShop.Web.csproj|solutionrelative:outletshop.web\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B7301D-C16B-460E-A3D3-3821C8EDFAA3}|OutletShop.Web\\OutletShop.Web.csproj|c:\\users\\sekne\\onedrive\\documents\\github\\outletshop-asp.net-core-8-mvc\\outletshop\\outletshop.web\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B7301D-C16B-460E-A3D3-3821C8EDFAA3}|OutletShop.Web\\OutletShop.Web.csproj|solutionrelative:outletshop.web\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B7301D-C16B-460E-A3D3-3821C8EDFAA3}|OutletShop.Web\\OutletShop.Web.csproj|c:\\users\\sekne\\onedrive\\documents\\github\\outletshop-asp.net-core-8-mvc\\outletshop\\outletshop.web\\areas\\admin\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B7301D-C16B-460E-A3D3-3821C8EDFAA3}|OutletShop.Web\\OutletShop.Web.csproj|solutionrelative:outletshop.web\\areas\\admin\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B7301D-C16B-460E-A3D3-3821C8EDFAA3}|OutletShop.Web\\OutletShop.Web.csproj|c:\\users\\sekne\\onedrive\\documents\\github\\outletshop-asp.net-core-8-mvc\\outletshop\\outletshop.web\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B7301D-C16B-460E-A3D3-3821C8EDFAA3}|OutletShop.Web\\OutletShop.Web.csproj|solutionrelative:outletshop.web\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9218312-2AA4-4BD4-85BF-A49C1860F7C3}|OutletShop.Data\\OutletShop.Data.csproj|c:\\users\\sekne\\onedrive\\documents\\github\\outletshop-asp.net-core-8-mvc\\outletshop\\outletshop.data\\outletdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9218312-2AA4-4BD4-85BF-A49C1860F7C3}|OutletShop.Data\\OutletShop.Data.csproj|solutionrelative:outletshop.data\\outletdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9218312-2AA4-4BD4-85BF-A49C1860F7C3}|OutletShop.Data\\OutletShop.Data.csproj|c:\\users\\sekne\\onedrive\\documents\\github\\outletshop-asp.net-core-8-mvc\\outletshop\\outletshop.data\\entitymodels\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9218312-2AA4-4BD4-85BF-A49C1860F7C3}|OutletShop.Data\\OutletShop.Data.csproj|solutionrelative:outletshop.data\\entitymodels\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9218312-2AA4-4BD4-85BF-A49C1860F7C3}|OutletShop.Data\\OutletShop.Data.csproj|c:\\users\\sekne\\onedrive\\documents\\github\\outletshop-asp.net-core-8-mvc\\outletshop\\outletshop.data\\entitymodels\\orderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9218312-2AA4-4BD4-85BF-A49C1860F7C3}|OutletShop.Data\\OutletShop.Data.csproj|solutionrelative:outletshop.data\\entitymodels\\orderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sekne\\OneDrive\\Documents\\GitHub\\OutletShop-ASP.NET-CORE-8-MVC\\OutletShop\\OutletShop.Web\\Program.cs",
+              "RelativeDocumentMoniker": "OutletShop.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\sekne\\OneDrive\\Documents\\GitHub\\OutletShop-ASP.NET-CORE-8-MVC\\OutletShop\\OutletShop.Web\\Program.cs",
+              "RelativeToolTip": "OutletShop.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T12:39:43.832Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OutletShop.Web",
+              "DocumentMoniker": "C:\\Users\\sekne\\OneDrive\\Documents\\GitHub\\OutletShop-ASP.NET-CORE-8-MVC\\OutletShop\\OutletShop.Web\\OutletShop.Web.csproj",
+              "RelativeDocumentMoniker": "OutletShop.Web\\OutletShop.Web.csproj",
+              "ToolTip": "C:\\Users\\sekne\\OneDrive\\Documents\\GitHub\\OutletShop-ASP.NET-CORE-8-MVC\\OutletShop\\OutletShop.Web\\OutletShop.Web.csproj",
+              "RelativeToolTip": "OutletShop.Web\\OutletShop.Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-09T14:34:44.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OutletShop.Models.csproj",
+              "DocumentMoniker": "C:\\Users\\sekne\\OneDrive\\Documents\\GitHub\\OutletShop-ASP.NET-CORE-8-MVC\\OutletShop\\OutletShop.Models\\OutletShop.Models.csproj",
+              "RelativeDocumentMoniker": "OutletShop.Models\\OutletShop.Models.csproj",
+              "ToolTip": "C:\\Users\\sekne\\OneDrive\\Documents\\GitHub\\OutletShop-ASP.NET-CORE-8-MVC\\OutletShop\\OutletShop.Models\\OutletShop.Models.csproj",
+              "RelativeToolTip": "OutletShop.Models\\OutletShop.Models.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-09T14:24:51.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sekne\\OneDrive\\Documents\\GitHub\\OutletShop-ASP.NET-CORE-8-MVC\\OutletShop\\OutletShop.Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "OutletShop.Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\sekne\\OneDrive\\Documents\\GitHub\\OutletShop-ASP.NET-CORE-8-MVC\\OutletShop\\OutletShop.Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "OutletShop.Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T14:19:01.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\sekne\\OneDrive\\Documents\\GitHub\\OutletShop-ASP.NET-CORE-8-MVC\\OutletShop\\OutletShop.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "OutletShop.Web\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\sekne\\OneDrive\\Documents\\GitHub\\OutletShop-ASP.NET-CORE-8-MVC\\OutletShop\\OutletShop.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "OutletShop.Web\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T14:17:09.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sekne\\OneDrive\\Documents\\GitHub\\OutletShop-ASP.NET-CORE-8-MVC\\OutletShop\\OutletShop.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OutletShop.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sekne\\OneDrive\\Documents\\GitHub\\OutletShop-ASP.NET-CORE-8-MVC\\OutletShop\\OutletShop.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "OutletShop.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T14:16:46.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\sekne\\OneDrive\\Documents\\GitHub\\OutletShop-ASP.NET-CORE-8-MVC\\OutletShop\\OutletShop.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "OutletShop.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\sekne\\OneDrive\\Documents\\GitHub\\OutletShop-ASP.NET-CORE-8-MVC\\OutletShop\\OutletShop.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "OutletShop.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T14:09:57.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\sekne\\OneDrive\\Documents\\GitHub\\OutletShop-ASP.NET-CORE-8-MVC\\OutletShop\\OutletShop.Web\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "OutletShop.Web\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\sekne\\OneDrive\\Documents\\GitHub\\OutletShop-ASP.NET-CORE-8-MVC\\OutletShop\\OutletShop.Web\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeToolTip": "OutletShop.Web\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T14:09:42.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\sekne\\OneDrive\\Documents\\GitHub\\OutletShop-ASP.NET-CORE-8-MVC\\OutletShop\\OutletShop.Web\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "OutletShop.Web\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\sekne\\OneDrive\\Documents\\GitHub\\OutletShop-ASP.NET-CORE-8-MVC\\OutletShop\\OutletShop.Web\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "OutletShop.Web\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T14:09:32.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\sekne\\OneDrive\\Documents\\GitHub\\OutletShop-ASP.NET-CORE-8-MVC\\OutletShop\\OutletShop.Web\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "OutletShop.Web\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\sekne\\OneDrive\\Documents\\GitHub\\OutletShop-ASP.NET-CORE-8-MVC\\OutletShop\\OutletShop.Web\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "OutletShop.Web\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T14:09:22.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "C:\\Users\\sekne\\OneDrive\\Documents\\GitHub\\OutletShop-ASP.NET-CORE-8-MVC\\OutletShop\\OutletShop.Web\\Areas\\Admin\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "OutletShop.Web\\Areas\\Admin\\Controllers\\CompanyController.cs",
+              "ToolTip": "C:\\Users\\sekne\\OneDrive\\Documents\\GitHub\\OutletShop-ASP.NET-CORE-8-MVC\\OutletShop\\OutletShop.Web\\Areas\\Admin\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "OutletShop.Web\\Areas\\Admin\\Controllers\\CompanyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T14:09:11.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\sekne\\OneDrive\\Documents\\GitHub\\OutletShop-ASP.NET-CORE-8-MVC\\OutletShop\\OutletShop.Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "OutletShop.Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\sekne\\OneDrive\\Documents\\GitHub\\OutletShop-ASP.NET-CORE-8-MVC\\OutletShop\\OutletShop.Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "OutletShop.Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T14:09:00.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OutletDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sekne\\OneDrive\\Documents\\GitHub\\OutletShop-ASP.NET-CORE-8-MVC\\OutletShop\\OutletShop.Data\\OutletDbContext.cs",
+              "RelativeDocumentMoniker": "OutletShop.Data\\OutletDbContext.cs",
+              "ToolTip": "C:\\Users\\sekne\\OneDrive\\Documents\\GitHub\\OutletShop-ASP.NET-CORE-8-MVC\\OutletShop\\OutletShop.Data\\OutletDbContext.cs",
+              "RelativeToolTip": "OutletShop.Data\\OutletDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T13:31:03.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderHeader.cs",
+              "DocumentMoniker": "C:\\Users\\sekne\\OneDrive\\Documents\\GitHub\\OutletShop-ASP.NET-CORE-8-MVC\\OutletShop\\OutletShop.Data\\EntityModels\\OrderHeader.cs",
+              "RelativeDocumentMoniker": "OutletShop.Data\\EntityModels\\OrderHeader.cs",
+              "ToolTip": "C:\\Users\\sekne\\OneDrive\\Documents\\GitHub\\OutletShop-ASP.NET-CORE-8-MVC\\OutletShop\\OutletShop.Data\\EntityModels\\OrderHeader.cs",
+              "RelativeToolTip": "OutletShop.Data\\EntityModels\\OrderHeader.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T13:27:44.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\sekne\\OneDrive\\Documents\\GitHub\\OutletShop-ASP.NET-CORE-8-MVC\\OutletShop\\OutletShop.Data\\EntityModels\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "OutletShop.Data\\EntityModels\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\sekne\\OneDrive\\Documents\\GitHub\\OutletShop-ASP.NET-CORE-8-MVC\\OutletShop\\OutletShop.Data\\EntityModels\\OrderDetail.cs",
+              "RelativeToolTip": "OutletShop.Data\\EntityModels\\OrderDetail.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T13:27:06.007Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
