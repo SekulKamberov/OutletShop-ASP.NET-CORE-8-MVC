@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="ViewModels\" />
+    <ProjectReference Include="..\OutletShop.Data\OutletShop.Data.csproj" />
   </ItemGroup>
 
 </Project>

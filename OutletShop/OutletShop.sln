@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OutletShop.Models", "Outlet
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OutletShop.Utility", "OutletShop.Utility\OutletShop.Utility.csproj", "{36C37E25-4A22-4CE1-8BA9-962FE9880DF1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutletShop.Web", "OutletShop.Web\OutletShop.Web.csproj", "{B5B7301D-C16B-460E-A3D3-3821C8EDFAA3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OutletShop.Web", "OutletShop.Web\OutletShop.Web.csproj", "{B5B7301D-C16B-460E-A3D3-3821C8EDFAA3}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OutletShop.Data", "OutletShop.Data\OutletShop.Data.csproj", "{D9218312-2AA4-4BD4-85BF-A49C1860F7C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutletShop.DataAccess", "OutletShop.DataAccess\OutletShop.DataAccess.csproj", "{27E852C8-A527-4418-839C-1E3B58EE9AE7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{D9218312-2AA4-4BD4-85BF-A49C1860F7C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9218312-2AA4-4BD4-85BF-A49C1860F7C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9218312-2AA4-4BD4-85BF-A49C1860F7C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27E852C8-A527-4418-839C-1E3B58EE9AE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27E852C8-A527-4418-839C-1E3B58EE9AE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27E852C8-A527-4418-839C-1E3B58EE9AE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27E852C8-A527-4418-839C-1E3B58EE9AE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -15,7 +15,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\OutletShop.Models\OutletShop.Models.csproj" />
     <ProjectReference Include="..\OutletShop.Utility\OutletShop.Utility.csproj" />
   </ItemGroup>
 
